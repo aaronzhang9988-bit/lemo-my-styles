@@ -1,0 +1,14 @@
+# Credits & Licences
+
+## Code
+- Easing helpers (`ease.js`) and print foley synthesis functions (`mix.py`) adapted from Lemo-Opuscar (`styles/swiss-motion/demo/` and `styles/halftone-dossier/demo/`), Copyright (c) LemoLab, MIT Licence.
+
+## Fonts (SIL Open Font License 1.1)
+- **Archivo** — Omnibus-Type (https://github.com/Omnibus-Type/Archivo), OFL-1.1
+- **JetBrains Mono** — JetBrains (https://github.com/JetBrains/JetBrainsMono), OFL-1.1
+- **Noto Sans SC** — Google / Adobe (https://github.com/notofonts/noto-cjk), OFL-1.1
+
+## Instrument Samples (via `core/audio/sampler.py`)
+- **drum_kit** (MuldjordKit, DrumGizmo) — MulDJord, CC BY 4.0 (https://drumgizmo.org/wiki/doku.php?id=kits:muldjordkit)
+- **electric_bass** (FreePats Finger Electric Bass) — Roberto Gordo Saez / FreePats, CC0 1.0 (https://freepats.zenvoid.org/)
+- **glockenspiel** (VSCO 2 Community Edition, Glockenspiel) — Versilian Studios, CC0 1.0 (https://vis.versilstudios.com/vsco-community.html)

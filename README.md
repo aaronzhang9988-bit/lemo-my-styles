@@ -1,0 +1,12 @@
+# My Styles · 我的专属风格
+
+| Style | 风格 | Slug | Base | Description |
+|---|---|---|---|---|
+| Lab Press Grid | 工程套印网格 | [`lab-press-grid`](lab-press-grid/STYLE.md) | `swiss-motion` (+ `halftone-dossier`) | 印在暖米灰工程档案纸上的瑞士动态网格：青蓝 45° 半调网点套印、错位重影标题、机密黑条揭开与机械液压规格章。 |
+| Kraft Crayon Zine | 牛皮纸蜡笔手账 | [`kraft-crayon-zine`](kraft-crayon-zine/STYLE.md) | `crayon-book` | `1080×1440` (3:4 竖屏) 温暖京都手账盒风：暖麦棕牛皮纸 (`#D5BE9E`) + 手撕毛边奶油白 5mm 方格纸笔记贴片 (`#F7F3E8`) + 半透明斜纹抹茶/赤陶和纸胶带 + 深浓咖蜡笔勾线 + 牛皮纸白蜡高光与琥珀茶汤水彩拒水显影 + 柿子红蜡笔实时画圈批注。 |
+| Song Silk & Mineral Gold | 宋韵古绢 × 矿物岩彩描金 | [`song-mineral-gold`](song-mineral-gold/STYLE.md) | `ink-wash` (original shader) | 同时支持 `1920×1080` (16:9 横屏宋人册页) 与 `1080×1440` (3:4 竖屏宋画立轴)：茶褐古绢经纬暗纹 (`#C8B490`) + 宋锦深青绫边装裱 + 青金石/孔雀石/朱砂/赭石/蛤粉三叠矿物岩彩颗粒 + 24K 泥金勾勒随宫灯追光流转 + 泥金乌丝栏竖排题跋与八宝朱砂印章。 |
+| New Yorker Gouache Editorial | 《纽约客》炭笔水粉插画报 | [`newyorker-editorial`](newyorker-editorial/STYLE.md) | `urban-sketch` (original shader) | 同时支持 `1920×1080` (16:9 横屏特稿跨页) 与 `1080×1440` (3:4 竖屏封面专栏)：300g 暖白纯棉版画纸 (`#F5EFE4`) + 丝绒哑光不透明水粉错版平涂（法式群青/焦赭朱红/芥末黄/鼠尾草绿）+ 柳木干炭笔松弛速写与铅笔圆规起稿线 + 巨型首字下沉衬线专栏与《纽约客》单行幽默图注。 |
+| Botanical Cyanotype Herbarium | 19 世纪普鲁士蓝晒标本志 | [`cyanotype-herbarium`](cyanotype-herbarium/STYLE.md) | original shader | 同时支持 `1920×1080` (16:9 横屏皇家学会标本跨页) 与 `1080×1440` (3:4 竖屏植物叶序图谱)：300g 冷压纯棉水彩纸 (`#F4EFE2`) + 羊毫排笔手刷铁盐普鲁士蓝感光层与飞白刷痕 (`#091E39`–`#23598B`) + 银杏/铁线蕨/向日葵 X 光半透明冰青叶脉透射与紫外接触暗环 + 亚麻标本固定胶条 + 19 世纪铜金蘸水笔 (`#D88A52`) 137.5° 黄金发散角星盘与邱园标本签条。 |
+| Silver Gelatin Contact Sheet | 银盐接触印相 × 红铅笔暗房手记 | [`silver-contact-sheet`](silver-contact-sheet/STYLE.md) | original shader | 同时支持 `1920×1080` (16:9 横屏玛格南暗房接触印相与工作放印跨页) 与 `1080×1440` (3:4 竖屏底片小样与放大试印板)：310g Ilford 暖调钡地纤维银盐相纸 (`#EFEAD9`) + 35mm 齿孔与 `KODAK TRI-X 400` 药膜边字 + H&D 硒调银盐分阶与卤化银颗粒团簇 + 暗房油性红/黄蜡笔 (`#E63B2E`/`#F2B830`) 选片框与遮挡加光 (`Dodge/Burn`) 手记 + 施耐德 8× 暗房放大镜光学折射与色差。 |
+| Nordic Papercut Lightbox Theatre | 北欧童话多层剪纸光影剧场 | [`nordic-papercut-lightbox`](nordic-papercut-lightbox/STYLE.md) | original shader | 同时支持 `1920×1080` (16:9 横屏安徒生木框舞台剪纸剧场) 与 `1080×1440` (3:4 竖屏五重景深纸雕绘本)：2700K 暖钨丝背光硫酸纸漫射屏 + 5 层 300g 康颂卡纸景深堆叠 + 多半径视差景深投射阴影 + 手术刀 45° 斜切白金刃口高光 + 峡湾红木灯塔透光窗格、八角伯利恒悬吊剪纸星与九角驯鹿民俗镂空。 |
+| Wes Anderson Wool-Felt Diorama | 韦斯·安德森毛毡光影剧场 | [`wes-anderson-felt`](wes-anderson-felt/STYLE.md) | original shader | 同时支持 `1920×1080` (16:9 横屏三层玩偶屋与登山缆车对称剧场) 与 `1080×1440` (3:4 竖屏绝对中轴玩偶屋横切图谱)：美利奴羊毛毡卷曲纤维场与边缘绒毛飞丝 + 立体绗缝贴布鼓包 + 手工平针虚线锁边与四眼十字绣线纽扣 + 孟德尔粉 (`#F2BFC0`) × 芥末黄 (`#E3A33B`) × 冰川青 (`#84B1AE`) × 礼宾紫 (`#5B3461`) 绝对对称构图。 |

@@ -1,0 +1,13 @@
+{
+  "slug": "lab-press-grid",
+  "en": "Lab Press Grid",
+  "cn": "工程套印网格",
+  "based_on": "swiss-motion",
+  "borrows": [
+    "halftone-dossier"
+  ],
+  "library_version": "b5e8ef9",
+  "created": "2026-10-29",
+  "line": "Swiss modular grid printed on warm engineering archive paper with cyan halftone overprint, misregistered titles, redaction bars and hydraulic spec stamps.",
+  "line_cn": "印在暖米灰工程档案纸上的瑞士动态网格：青蓝半调网点套印、错位重影标题、机密黑条揭开与机械液压规格章。"
+}

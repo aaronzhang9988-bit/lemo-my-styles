@@ -1,0 +1,11 @@
+{
+  "slug": "newyorker-editorial",
+  "name": "New Yorker Gouache Editorial",
+  "zh": "《纽约客》炭笔水粉插画报",
+  "base": "urban-sketch",
+  "size": "1920x1080",
+  "alt_sizes": ["1080x1440"],
+  "created": "2026-11-07",
+  "summary": "Intellectual magazine editorial illustration inspired by The New Yorker and Monocle: 300gsm warm cotton rag paper (#F5EFE4), velvety matte opaque gouache plates (French Ultramarine #1D3C6B, Burnt Terracotta #D14832, Mustard Ochre #E2A93B, Sage Olive #587764) with dry-brush bristle feathering and 3–4px print offset, loose vine-charcoal linework with graphite compass construction arcs, Sempé/Steinberg visual metaphors, drop-cap serif essay columns, and single-line italic cartoon captions. Natively supports both 1920×1080 (16:9 spread) and 1080×1440 (3:4 vertical column).",
+  "tags": ["2D", "WebGL2", "new-yorker", "gouache", "charcoal", "editorial", "magazine", "intellectual", "dual-aspect"]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "song-mineral-gold",
+  "name": "Song Silk & Mineral Gold",
+  "zh": "宋韵古绢 × 矿物岩彩描金",
+  "base": "ink-wash",
+  "size": "1920x1080",
+  "alt_sizes": ["1080x1440"],
+  "created": "2026-11-07",
+  "summary": "Museum-grade Song-dynasty Blue-and-Green mineral painting on tea-aged woven silk (#C8B490) with real warp/weft thread relief, crushed Azurite (石青), Malachite (石绿), Cinnabar (朱砂), Ochre (赭石) and Shell-White (蛤粉) crystal granulation, 24K specular mud-gold contour lines (泥金复勾) that glint under roving candlelight, mud-gold ruled calligraphy columns (泥金乌丝栏), and porous Cinnabar seal stamps. Supports both 16:9 horizontal album-leaf/handscroll (1920×1080) and 3:4 vertical hanging-scroll (1080×1440) compositions.",
+  "tags": ["2D", "WebGL2", "song-dynasty", "mineral-pigment", "gold-leaf", "silk-scroll", "eastern-aesthetics", "dual-aspect"]
+}

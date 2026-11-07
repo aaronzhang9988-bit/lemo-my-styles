@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>Botanical Cyanotype Herbarium · 19 世纪普鲁士蓝晒标本志</title>
+  <style>
+    @font-face {
+      font-family: 'Noto Serif SC';
+      font-style: normal;
+      font-weight: 600;
+      src: url('./fonts/notoserifsc-600.woff2') format('woff2');
+    }
+    @font-face {
+      font-family: 'Noto Serif SC';
+      font-style: normal;
+      font-weight: 700;
+      src: url('./fonts/notoserifsc-700.woff2') format('woff2');
+    }
+    @font-face {
+      font-family: 'Playfair Display';
+      font-style: normal;
+      font-weight: 600 700;
+      src: url('./fonts/playfair-700.woff2') format('woff2');
+    }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #09182B;
+      overflow: hidden;
+    }
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="stage" width="1920" height="1080"></canvas>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
