@@ -1,0 +1,23 @@
+{
+  "slug": "nordic-papercut-lightbox",
+  "name": "Nordic Papercut Lightbox Theatre",
+  "zh": "北欧童话多层剪纸光影剧场",
+  "base": "original",
+  "size": "1920x1080",
+  "alt_sizes": [
+    "1080x1440"
+  ],
+  "created": "2026-11-07",
+  "summary": "Andersen-style Nordic paper-cut tunnel book lit from behind: a 2700K tungsten vellum backlight (#FFF5D1 → #F5A34A), five stacked 300gsm Canson card layers (sky peaks, fjord village, forest bridge, foreground arch, proscenium) with multi-radius parallax cast shadows, subsurface amber glow and 45° scalpel-bevel highlights; Falu-red lighthouse with vellum windows, hanging eight-point Bethlehem paper stars and folk-cut reindeer. Natively supports 1920×1080 (16:9 wooden-frame stage) and 1080×1440 (3:4 five-layer tunnel book).",
+  "tags": [
+    "2D",
+    "WebGL2",
+    "papercut",
+    "tunnel-book",
+    "lightbox",
+    "nordic",
+    "fairy-tale",
+    "storytelling",
+    "dual-aspect"
+  ]
+}

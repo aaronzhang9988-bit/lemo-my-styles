@@ -1,0 +1,23 @@
+{
+  "slug": "silver-contact-sheet",
+  "name": "Silver Gelatin Contact Sheet",
+  "zh": "银盐接触印相 × 红铅笔暗房手记",
+  "base": "original",
+  "size": "1920x1080",
+  "alt_sizes": [
+    "1080x1440"
+  ],
+  "created": "2026-11-07",
+  "summary": "1950s Magnum darkroom proof aesthetic: 310gsm Ilford warm-tone baryta fibre paper (#EFEAD9) on a wet bench, H&D-curve selenium-toned silver tones (#0A0B0E D-max to #9D9E98) with Tri-X 400 halide grain clusters, 35mm sprocket holes and KODAK TRI-X PAN FILM 5063 rebate code, Zone 0–X step wedge and f/8 test strip, crimson/yellow China-marker select boxes, reject crosses and DODGE/BURN notes, and a Schneider 8× loupe with barrel magnification and chromatic aberration. Natively supports 1920×1080 (16:9 contact sheet + 8×10 work print) and 1080×1440 (3:4 film-strip proof board).",
+  "tags": [
+    "2D",
+    "WebGL2",
+    "silver-gelatin",
+    "contact-sheet",
+    "darkroom",
+    "photography",
+    "documentary",
+    "investigation",
+    "dual-aspect"
+  ]
+}
