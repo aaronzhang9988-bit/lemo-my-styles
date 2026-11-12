@@ -1,0 +1,23 @@
+{
+  "slug": "cyanotype-herbarium",
+  "name": "Botanical Cyanotype Herbarium",
+  "zh": "19 世纪普鲁士蓝晒标本志",
+  "base": "original",
+  "size": "1920x1080",
+  "alt_sizes": [
+    "1080x1440"
+  ],
+  "created": "2026-11-07",
+  "summary": "19th-century botanical cyanotype photogram inspired by Anna Atkins and the Kew Herbarium: 300gsm cold-press cotton rag (#F4EFE2) with hand-brushed iron-salt Prussian-blue emulsion and dry-brush bristle edges (#091E39–#23598B), X-ray-translucent ginkgo/fern/sunflower specimens developing to ice cyan (#3877AA–#AAD2EA) with UV contact halos, linen herbarium tape, copper-gall dip-pen astrolabes with 137.5° golden-angle phyllotaxis and Kew collector's cartouches. Natively supports 1920×1080 (16:9 Royal Society specimen spread) and 1080×1440 (3:4 vertical phyllotaxis plate).",
+  "tags": [
+    "2D",
+    "WebGL2",
+    "cyanotype",
+    "botanical",
+    "herbarium",
+    "photogram",
+    "prussian-blue",
+    "science",
+    "dual-aspect"
+  ]
+}

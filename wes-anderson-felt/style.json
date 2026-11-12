@@ -1,0 +1,23 @@
+{
+  "slug": "wes-anderson-felt",
+  "name": "Wes Anderson Wool-Felt Diorama",
+  "zh": "韦斯·安德森毛毡光影剧场",
+  "base": "original",
+  "size": "1920x1080",
+  "alt_sizes": [
+    "1080x1440"
+  ],
+  "created": "2026-11-07",
+  "summary": "Planimetric, dead-centre symmetric stop-motion diorama in Merino wool felt, after The Grand Budapest Hotel and Fantastic Mr. Fox: curly fibre field with melange flecks on a glacier-mint striped wall (#84B1AE) under a 2900K top light, appliqué patches with 1.5–2.5 px fuzzy edge hairs and quilted plush domes, running-stitch borders, four-hole cross-stitched buttons and brushed-brass key tags, in Mendl's pink (#F2BFC0), mustard (#E3A33B), cranberry (#A43237) and concierge plum (#5B3461). Natively supports 1920×1080 (16:9 three-storey hotel + funicular stage) and 1080×1440 (3:4 centred dollhouse cross-section).",
+  "tags": [
+    "2D",
+    "WebGL2",
+    "wool-felt",
+    "diorama",
+    "stop-motion",
+    "symmetry",
+    "pastel",
+    "deadpan",
+    "dual-aspect"
+  ]
+}
